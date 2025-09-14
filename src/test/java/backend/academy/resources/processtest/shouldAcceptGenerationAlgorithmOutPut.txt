@@ -1,0 +1,19 @@
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm
+     You enter the wrong number
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm
+     You enter the wrong number
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm
+     You enter the wrong number
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm
+     You enter the wrong number
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm

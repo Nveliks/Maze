@@ -1,0 +1,11 @@
+     Enter the height and width of the maze separated by a whitespace, the numbers must be greater than 1
+     The first number is height, the second is width
+     You enter the wrong number
+     Enter the height and width of the maze separated by a whitespace, the numbers must be greater than 1
+     The first number is height, the second is width
+     You enter the wrong number
+     Enter the height and width of the maze separated by a whitespace, the numbers must be greater than 1
+     The first number is height, the second is width
+     You enter the wrong number
+     Enter the height and width of the maze separated by a whitespace, the numbers must be greater than 1
+     The first number is height, the second is width

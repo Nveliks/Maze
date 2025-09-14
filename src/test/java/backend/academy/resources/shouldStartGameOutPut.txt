@@ -1,0 +1,81 @@
+     Hello, let's create a maze and find a way
+     Enter the height and width of the maze separated by a whitespace, the numbers must be greater than 1
+     The first number is height, the second is width
+     You enter the wrong number
+     Enter the height and width of the maze separated by a whitespace, the numbers must be greater than 1
+     The first number is height, the second is width
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm
+     You enter the wrong number of algorithm
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm
+     You enter the wrong number of algorithm
+     There're 2 algorithms for generate a maze, enter a number
+     1 - to choose the Prim's algorithm
+     2 - to choose the Kruskal's algorithm
+----------------------------------------
+|       |   |   |                   |   |
+|----            ----    ------------    
+|   |   |   |       |   |               |
+|                ----        ------------
+|           |   |           |           |
+|----    ----    ----            --------
+|               |   |   |           |   |
+|------------            ------------    
+|   |   |                       |       |
+|        --------    ----                
+|                       |   |       |   |
+|    ----    ----        ----------------
+|   |       |       |                   |
+|--------    ----    ----        --------
+|           |           |   |       |   |
+|--------                    --------    
+|           |   |   |   |               |
+|----------------                ----    
+|                   |   |   |   |       |
+|----------------------------------------
+     Enter the starting and ending point of the path
+The Y coordinate should be greater then 0 and be less than the height (11)
+ and the X coordinate should be greater then 0 and be less than the width of the maze (11)
+     Enter coordinates of starting point
+     The first number is height, the second is width
+     Enter coordinates of ending point
+     The first number is height, the second is width
+     You enter the wrong number
+     Enter coordinates of ending point
+     The first number is height, the second is width
+     There're 2 algorithms for find path from start to end point, enter a number
+     1 - to choose the A* (surfaces)
+     2 - to choose the BfsSolver
+     You enter the wrong number of algorithm
+     There're 2 algorithms for find path from start to end point, enter a number
+     1 - to choose the A* (surfaces)
+     2 - to choose the BfsSolver
+----------------------------------------
+| @   * |   |   |                   |   |
+|----            ----    ------------    
+|   | * |   |       |   |               |
+|                ----        ------------
+|     *     |   |           |           |
+|----    ----    ----            --------
+|     *   *   * |   |   |           |   |
+|------------            ------------    
+|   |   |     *   *             |       |
+|        --------    ----                
+|                 *   * |   |       |   |
+|    ----    ----        ----------------
+|   |       |       | *   *             |
+|--------    ----    ----        --------
+|           |           | * |       |   |
+|--------                    --------    
+|           |   |   |   | *   *   *   * |
+|----------------                ----    
+|                   |   |   |   |     # |
+|----------------------------------------
+     The path is marked with '*' symbols
+     The start point is marked with '@' symbols
+     The end point is marked with '#' symbols
+     It's end! Congratulations!
+     Have a nice day!
